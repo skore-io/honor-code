@@ -115,7 +115,7 @@ Don't write comments. Ever.
 ---
 
 <a name='javascript-hooks'></a>
-## 4. JavaScript hooks - ???
+## 4. JavaScript hooks
 
 Prefixed with `.js-`:
 
