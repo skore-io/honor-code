@@ -49,3 +49,12 @@ Keep development, staging, and production as similar as possible [more here](htt
 Treat logs as event streams [more here](https://12factor.net/logs)
 
 > Always send logs to our logstash
+
+## IX. Monitoring
+...
+
+## X. Documentation
+...
+
+## XI. Architecture
+...
