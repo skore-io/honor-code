@@ -125,8 +125,8 @@ Exemplos: arquitetura da feature de notificações, migração do skore 2 -> sko
 <h2 align="center">Referências</h2>
 
 #### Aprendizado contínuo
-- Curso na Alura
-- Curso no frontend masters
+- <a href="https://www.alura.com.br" target="_blank">Curso na Alura</a>
+- <a href="https://frontendmasters.com" target="_blank">Curso no frontend masters</a>
 - Participação em eventos
 - Leitura de livros
 
